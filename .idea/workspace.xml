@@ -1,37 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a269a4d-a295-4ad3-a16e-77b913ca6530" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="4a269a4d-a295-4ad3-a16e-77b913ca6530" name="Default Changelist" comment="upload">
+      <change afterPath="$PROJECT_DIR$/Customer Manager/Customer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer Manager/Management.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer Manager/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer Manager/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer Manager/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer Manager/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo oop/Customer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo oop/actions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo oop/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo oop/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo oop/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/number to word/convert-number.php" beforeDir="false" afterPath="$PROJECT_DIR$/number to word/convert-number.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/number to word/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/number to word/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
-    <execution />
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/number to word" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="1lGzumtXRj1r8tjNcjd3lBY3LOP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/number to word" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -53,7 +98,16 @@
       <workItem from="1607307469389" duration="72000" />
       <workItem from="1607307546321" duration="1662000" />
       <workItem from="1607419510533" duration="80000" />
-      <workItem from="1607479827941" duration="1867000" />
+      <workItem from="1607479827941" duration="3099000" />
+      <workItem from="1607497589796" duration="608000" />
+      <workItem from="1607506032715" duration="147000" />
+      <workItem from="1607530365356" duration="1467000" />
+      <workItem from="1607531928546" duration="1772000" />
+      <workItem from="1607554690337" duration="2629000" />
+      <workItem from="1607557406484" duration="98000" />
+      <workItem from="1607558016315" duration="599000" />
+      <workItem from="1607563000753" duration="5415000" />
+      <workItem from="1607739857932" duration="8911000" />
     </task>
     <servers />
   </component>
@@ -70,5 +124,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
